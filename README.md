@@ -6,7 +6,7 @@ Creating Product web api with NUnit_testcases in .Net Core 2.1
  Database Used: InMemory 
  
  Github Repository Link: 
- 	https://github.com/Rohitbadgujar/Product_web_api_NUnit_testcases
+ 	https://github.com/Rohitbadgujar/Product_web_api_with_NUnit_testcases
 	
  ## API is built in C# .Net Core 2.1 
 
