@@ -13,7 +13,7 @@ Creating Product web api with NUnit_testcases in .Net Core 2.1
 ## 1.	How to run the application:
 
 	Open cmd -> go to project directory -> dotnet build 
-	 	 ->  dotnet run
+	 	 			    ->  dotnet run
 or
 Open project in Visual Studio -> Cntrl+ f5 
 To run test cases -> Test -> Run -> All Test case
