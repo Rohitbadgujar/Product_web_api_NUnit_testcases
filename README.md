@@ -22,6 +22,17 @@ To run test cases -> Test -> Run -> All Test case
 
 Made Product {ID, Name, Description} fields mandatory using Data annotation.
 
+	''''public class Product
+    	{
+		[Required(ErrorMessage = "ID is Required")]
+		public int Id { get; set; }
+		[Required(ErrorMessage = "Name is Required")]
+		public string Name { get; set; }
+		[Required(ErrorMessage = "Description is Required")]
+		public string Description { get; set; }
+    	}
+	''''
+
 ### i.	Get All products [HTTPGET]
 
 	https://localhost:5001/api/WebApiProduct/getproduct
