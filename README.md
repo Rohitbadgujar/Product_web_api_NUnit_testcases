@@ -61,7 +61,7 @@ Made Product {ID, Name, Description} fields mandatory using Data annotation.
         "description": "Juice made of fresh Oranges"}
 	```
 
-### v.	Add new product [HTTPPUT]
+### v.	Add new product [HTTPOST]
 
 	https://localhost:5001/api/WebApiProduct/insertproduct
 	
