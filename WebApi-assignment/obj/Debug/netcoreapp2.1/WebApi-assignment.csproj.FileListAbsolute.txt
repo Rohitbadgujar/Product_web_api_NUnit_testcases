@@ -1,0 +1,14 @@
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\bin\Debug\netcoreapp2.1\WebApi-assignment.deps.json
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\bin\Debug\netcoreapp2.1\WebApi-assignment.runtimeconfig.json
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\bin\Debug\netcoreapp2.1\WebApi-assignment.runtimeconfig.dev.json
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\bin\Debug\netcoreapp2.1\WebApi-assignment.dll
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\bin\Debug\netcoreapp2.1\WebApi-assignment.pdb
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.RazorAssemblyInfo.cache
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.RazorAssemblyInfo.cs
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.AssemblyInfo.cs
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.RazorTargetAssemblyInfo.cache
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.dll
+C:\Users\rohit\source\repos\WebApi-assignment\WebApi-assignment\obj\Debug\netcoreapp2.1\WebApi-assignment.pdb

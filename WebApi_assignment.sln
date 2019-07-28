@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi_assignment", "WebApi-assignment\WebApi_assignment.csproj", "{CD1C6699-7B17-4373-8C20-48574AFE7B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestWebApi", "NUnitTestWebApi\NUnitTestWebApi.csproj", "{5263EB5C-CA9D-4A54-BED6-16F5DAF67369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1C6699-7B17-4373-8C20-48574AFE7B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1C6699-7B17-4373-8C20-48574AFE7B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1C6699-7B17-4373-8C20-48574AFE7B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1C6699-7B17-4373-8C20-48574AFE7B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5263EB5C-CA9D-4A54-BED6-16F5DAF67369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5263EB5C-CA9D-4A54-BED6-16F5DAF67369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5263EB5C-CA9D-4A54-BED6-16F5DAF67369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5263EB5C-CA9D-4A54-BED6-16F5DAF67369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31950236-F952-4488-B3DB-AB9C63267B14}
+	EndGlobalSection
+EndGlobal
